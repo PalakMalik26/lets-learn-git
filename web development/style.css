@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#less{
+    width:100%;
+    height:100%;
+    background-color: black;
+}
+#less{
+    width:20%;
+    height:40%;
+   padding:20px;
+    background-color: brown;
+}
+#less{
+    width:100%;
+    height:100%;
+    background-color: blanchedalmond;
+background-image: url(https://plus.unsplash.com/premium_photo-1681746821577-5c5f32433be5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxMHx8fGVufDB8fHx8fA%3D%3D);
+background-size: center;
+
+}
+#car1{
+    position: absolute;
+    width:50%;
+    height:120%;
+    left:30%;
+    background-color: aqua;
+}
+#car2{
+   
+    width:60%;
+
+    height:90%;
+    background-color:aquamarine;
+}
+#car3{
+
+    width:70%;
+    height:110%;
+    background-color:blueviolet;
+}
+#nbox{
+    position:relative;
+    width:130px;
+    height:130px;
+    background-color: yellow;
+}
+#chotabox{
+    position:absolute;
+    left:50%;
+    width:50px;
+    height:60px;
+    background-color: orange;
+}
+#let{
+    display:flex;
+    justify-content: start;
+    width:500px;
+    height:500px;
+    background-color: grey;
+}
+#let1{
+    width:200px;
+    height:150px;
+    background-color:rgb(128, 226, 43);
+}
+#let2{
+    width:50px;
+    height:80px;
+    background-color:azure;
+}
+#let3{
+    width:70px;
+    height:60px;
+    background-color: rgb(15, 229, 179);
+}
